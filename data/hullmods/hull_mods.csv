@@ -1,6 +1,7 @@
 name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
 ,,,,,,,,,,,,,,,,,,,
-先进航电设备,diableavionics_avionics,4,0.33,Diable Avionics,"no_build_in, req_spaceport","Weapons, Engines, Requires Dock",30000,,,,10,20,30,50,data.hullmods.DiableAvionicsUpgrade,"一套专为恶魔航电公司舰船提供的内部系统全面升级，先进的发动机和动力系统可精细调整反应堆输出，同时保持辐能生成平衡，使飞船的最大速度按尺寸增加 {%s}/{%s}/{%s}/{%s}，而重新设计后的复杂辐能通道和调节器组成的网络允许飞船只要每秒产生的辐能不大于最大辐能容量的{%s}，就可以激活零辐能加速。
+先进航电设备,diableavionics_avionics,4,0.33,Diable Avionics,"no_build_in, req_spaceport","Weapons, Engines, Requires Dock",30000,,,,10,20,30,50,data.hullmods.DiableAvionicsUpgrade,"一套专为恶魔航电公司舰船提供的内部系统全面升级，先进的发动机和动力系统可精细调整反应堆输出，同时保持辐能生成平衡，飞船的最大速度按尺寸增加{%s}/{%s}/{%s}/{%s}。
+此外重新设计后的复杂辐能通道和调节器组成的网络允许飞船只要每秒产生的辐能不大于最大辐能容量的{%s}，就可以激活零辐能加速。
 ","根据船体等级增加舰船的最大速度，允许产生辐能的情况下也享受零辐能加速。
 ",,graphics/da/hullmods/diableavionics_avionics.png
 ,,,,,,,,,,,,,,,,,,,
